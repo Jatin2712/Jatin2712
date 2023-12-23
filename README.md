@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jatin, I'm Full Stack Developer  👨‍💻 known Java Basis 🚀</div>  
+### <div align="center">I'm Jatin, I'm Full Stack Developer  👨‍💻 known Java Developer 🚀</div>  
   
 
 - 🌱 I’m currently learning Full Stack Developer and React Js  
